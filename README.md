@@ -17,6 +17,6 @@ Projeto construido no evento Next Level Week da Rocketseat!
 
 e-mail - jhoosnow27@gmail.com
 
-[linkedin](https://www.linkedin.com/in/jhoo-snow/)
+Linkedin - [linkedin](https://www.linkedin.com/in/jhoo-snow/)
 
 Whatsapp - (88)9 9905-6486
