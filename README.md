@@ -11,7 +11,7 @@ Projeto construido no evento Next Level Week da Rocketseat!
 -  Javascript
 -  GIT E GITHUB
 
-[clique aqui para acessar](https://jhoomeeg.github.io/nlw-setup/)
+[clique aqui para acessar](https://jhoomeeg.github.io/NLW-SETUP/)
 
 ## Contato 
 
